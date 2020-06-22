@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  volume: 12px;
+  value: 12px;
 }
 
 #tasks .completed {
